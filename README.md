@@ -1,2 +1,3 @@
 # Brickout - Become the Brick
- Brickout Project
+DBGA - Minigame Challenge
+by Maurizio Fischetti
